@@ -1,8 +1,8 @@
 # 
 
-![Balance Image ](screenshots/photo.PNG)
+![Balance Image ](screenshot/photo.PNG)
 #
-![Balance Image ](screenshots/photo2.PNG)
+![Balance Image ](screenshot/photo2.PNG)
 
 
 ## Configuración
