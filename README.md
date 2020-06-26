@@ -9,7 +9,7 @@
 
 clonar el repo. 
 
-acceder a la carpeta client y ejecutar el comando `npm install`. Una vez terminado ejecutar npm start  
+acceder a la carpeta client y ejecutar el comando `npm install`. Una vez terminado ejecutar  `npm start`  
 
 
 sobre la carpeta principal ejecutar los comando `composer install`. luego php `artisan key:generate`
