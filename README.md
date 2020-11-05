@@ -5,17 +5,17 @@
 ![Balance Image ](screenshot/photo2.PNG)
 
 
-## Configuración
+## Settings
 
-clonar el repo. 
+clone repo. 
 
-acceder a la carpeta client y ejecutar el comando `npm install`. Una vez terminado ejecutar  `npm start`  
+access client folder y execute  `npm install`. once finish run  `npm start`  
 
 
-sobre la carpeta principal ejecutar los comando `composer install`. luego php `artisan key:generate`
-sustituir .env.example por el .env configurar ambiente de bd dentro y ejecutar el comando `php artisan config:cache` para refresacar variables de ambiente. 
+on main folder run `composer install`. then php `artisan key:generate`
+replace .env.example for .env and set up your database credential inside then tun `php artisan config:cache` to refresh environment variables. 
 
-correr migracion con el comando `php artisan migrate` 
+Next step run migrtion `php artisan migrate` 
 
-y levantar el servicio de laravel con el comando `php artisan serve` 
+then start serving  `php artisan serve` 
 
