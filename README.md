@@ -1,4 +1,4 @@
-# 
+# PHP backend and React front end balance tool
 
 ![Balance Image ](screenshot/photo.PNG)
 #
